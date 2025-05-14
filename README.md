@@ -1,7 +1,4 @@
-# transformationDigitaleStrategieIT
-Transformation Digitale et  Stratégie IT
-
-## ✨ Titre : Transformation Digitale et Stratégie IT : Leviers Stratégiques pour une Entreprise Résiliente et Innovante
+# Transformation Digitale et Stratégie IT : Leviers Stratégiques pour une Entreprise Résiliente et Innovante
 
 ---
 
